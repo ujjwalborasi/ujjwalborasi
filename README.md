@@ -33,7 +33,12 @@
 * Data Science
 * Python
 * SQL
+* C++
 * Git
+* Java
+* Javascript
+* React
+* C#
 ## Education
 
 * Bachelor of Technology in Computer Science
